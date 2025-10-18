@@ -1,0 +1,18 @@
+{
+  "id": "4b4ce046-ef94-4bcf-bd2c-85f25b669d00",
+  "name": "New Chat",
+  "messages": [
+    {
+      "role": "user",
+      "content": "k",
+      "timestamp": "2025-04-05T07:03:44.438470"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay! Is there anything specific you'd like to talk about or any questions you have? I'm here to help.\n",
+      "timestamp": "2025-04-05T07:03:45.268566"
+    }
+  ],
+  "created_at": "2025-04-05T07:03:44.438470",
+  "is_temporary": false
+}

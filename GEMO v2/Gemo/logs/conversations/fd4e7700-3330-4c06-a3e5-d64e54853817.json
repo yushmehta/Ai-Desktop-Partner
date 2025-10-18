@@ -1,0 +1,57 @@
+{
+  "id": "fd4e7700-3330-4c06-a3e5-d64e54853817",
+  "name": "Atom Joke: Making Up Things",
+  "messages": [
+    {
+      "id": "eca300cc-34aa-4e29-9817-468cdbd30266",
+      "role": "user",
+      "content": "TEL A JOKE",
+      "timestamp": "2025-04-05T07:34:49.849006"
+    },
+    {
+      "id": "e8c8e73a-03fc-46fc-9906-19c0246064c7",
+      "role": "assistant",
+      "content": "Why don't scientists trust atoms?<br><br>Because they make up everything!<br>",
+      "timestamp": "2025-04-05T07:34:55.380492",
+      "responses": [
+        "Why don't scientists trust atoms?<br><br>Because they make up everything!<br>",
+        "Why don't scientists trust atoms?\n\nBecause they make up everything!\n"
+      ],
+      "responseIndex": 0
+    },
+    {
+      "id": "50b5b179-06de-4f11-bac1-0853af78b0b5",
+      "role": "user",
+      "content": "A BETTER ONE",
+      "timestamp": "2025-04-05T07:35:07.975250"
+    },
+    {
+      "id": "71846e6e-c4a7-4647-b4e7-bb08685dbcee",
+      "role": "assistant",
+      "content": "Okay, here's another one:\n\nWhy did the scarecrow win an award?\n\nBecause he was outstanding in his field!\n",
+      "timestamp": "2025-04-05T07:35:09.658922",
+      "responses": [
+        "Okay, here's another one:\n\nWhy did the scarecrow win an award?\n\nBecause he was outstanding in his field!\n"
+      ],
+      "responseIndex": 0
+    },
+    {
+      "id": "c9e64daa-c70a-4bf7-b039-38b16cd57f94",
+      "role": "user",
+      "content": "GOOD ONE",
+      "timestamp": "2025-04-05T07:37:44.235167"
+    },
+    {
+      "id": "8bd2208a-e48b-476f-b9f6-4432bffa2a90",
+      "role": "assistant",
+      "content": "Glad you liked it! How about one more?\n\nWhat do you call a lazy kangaroo?\n\nPouch potato!\n",
+      "timestamp": "2025-04-05T07:37:45.136824",
+      "responses": [
+        "Glad you liked it! How about one more?\n\nWhat do you call a lazy kangaroo?\n\nPouch potato!\n"
+      ],
+      "responseIndex": 0
+    }
+  ],
+  "created_at": "2025-04-05T07:34:49.848008",
+  "is_temporary": false
+}

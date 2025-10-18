@@ -1,0 +1,38 @@
+{
+  "id": "d7f142e6-2a2c-4e1e-9615-be6ec1890dad",
+  "name": "Greeting and Assistance",
+  "messages": [
+    {
+      "role": "user",
+      "content": "YO",
+      "timestamp": "2025-04-05T07:47:06.359316"
+    },
+    {
+      "id": "19cbc7cc-47fc-4c7c-b37c-fffd091a8404",
+      "role": "assistant",
+      "content": "What's up? How can I help you today?\n",
+      "timestamp": "2025-04-05T07:47:08.444140",
+      "alternative_responses": [
+        "Yo! What's up? How can I help you today?\n",
+        "What's up? How can I help you today?\n"
+      ]
+    },
+    {
+      "role": "user",
+      "content": "ARE YOU OK",
+      "timestamp": "2025-04-05T07:47:25.720066"
+    },
+    {
+      "id": "b8c66a6f-385b-46cf-a168-912c0725fbb5",
+      "role": "assistant",
+      "content": "As a large language model, I don't experience emotions or feelings like humans do. So, I can't be \"OK\" in the same way. However, I'm functioning correctly and ready to assist you. Is there anything I can do for you?\n",
+      "timestamp": "2025-04-05T07:47:26.970925",
+      "alternative_responses": [
+        "Yes, I am functioning as expected. As an AI, I don't experience emotions or feelings like humans do. So, in that sense, I don't \"feel\" okay or not okay. \n\nIs there something specific that made you ask if I'm okay? Perhaps you noticed something in my responses that seemed off? I'm always learning and improving, so any feedback is welcome.\n",
+        "As a large language model, I don't experience emotions or feelings like humans do. So, I can't be \"OK\" in the same way. However, I'm functioning correctly and ready to assist you. Is there anything I can do for you?\n"
+      ]
+    }
+  ],
+  "created_at": "2025-04-05T07:47:06.357959",
+  "is_temporary": false
+}

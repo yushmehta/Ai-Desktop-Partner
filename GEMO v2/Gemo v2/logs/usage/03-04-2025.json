@@ -1,0 +1,137 @@
+[
+  {
+    "timestamp": "2025-04-03T07:33:12.053361",
+    "api_key": "891E",
+    "model": "gemini-1.5-flash",
+    "type": "message",
+    "token_estimate": 11,
+    "has_attachments": false,
+    "attachment_types": []
+  },
+  {
+    "timestamp": "2025-04-03T07:33:26.759354",
+    "api_key": "891E",
+    "model": "gemini-1.5-flash",
+    "type": "message",
+    "token_estimate": 383,
+    "has_attachments": false,
+    "attachment_types": []
+  },
+  {
+    "timestamp": "2025-04-03T07:33:28.667598",
+    "api_key": "891E",
+    "model": "gemini-1.5-flash",
+    "type": "chat_name",
+    "token_estimate": 50,
+    "has_attachments": false,
+    "attachment_types": []
+  },
+  {
+    "timestamp": "2025-04-03T07:34:06.398036",
+    "api_key": "891E",
+    "model": "gemini-1.5-flash",
+    "type": "message",
+    "token_estimate": 13,
+    "has_attachments": false,
+    "attachment_types": []
+  },
+  {
+    "timestamp": "2025-04-03T07:34:48.663274",
+    "api_key": "891E",
+    "model": "gemini-2.0-flash-lite",
+    "type": "regenerate",
+    "token_estimate": 13,
+    "has_attachments": false,
+    "attachment_types": []
+  },
+  {
+    "timestamp": "2025-04-03T07:35:03.063690",
+    "api_key": "891E",
+    "model": "gemini-1.5-pro",
+    "type": "regenerate",
+    "token_estimate": 25,
+    "has_attachments": false,
+    "attachment_types": []
+  },
+  {
+    "timestamp": "2025-04-03T07:50:28.555206",
+    "api_key": "891E",
+    "model": "gemini-1.5-pro",
+    "type": "message",
+    "token_estimate": 37,
+    "has_attachments": false,
+    "attachment_types": []
+  },
+  {
+    "timestamp": "2025-04-03T07:50:53.993643",
+    "api_key": "891E",
+    "model": "gemini-1.5-pro",
+    "type": "message",
+    "token_estimate": 204,
+    "has_attachments": false,
+    "attachment_types": []
+  },
+  {
+    "timestamp": "2025-04-03T07:50:56.175957",
+    "api_key": "891E",
+    "model": "gemini-1.5-pro",
+    "type": "chat_name",
+    "token_estimate": 50,
+    "has_attachments": false,
+    "attachment_types": []
+  },
+  {
+    "timestamp": "2025-04-03T08:05:34.412535",
+    "api_key": "891E",
+    "model": "gemini-1.5-pro",
+    "type": "message",
+    "token_estimate": 10,
+    "has_attachments": false,
+    "attachment_types": []
+  },
+  {
+    "timestamp": "2025-04-03T08:05:37.913059",
+    "api_key": "891E",
+    "model": "gemini-1.5-pro",
+    "type": "message",
+    "token_estimate": 11,
+    "has_attachments": false,
+    "attachment_types": []
+  },
+  {
+    "timestamp": "2025-04-03T08:05:40.126690",
+    "api_key": "891E",
+    "model": "gemini-1.5-pro",
+    "type": "chat_name",
+    "token_estimate": 50,
+    "has_attachments": false,
+    "attachment_types": []
+  },
+  {
+    "timestamp": "2025-04-03T08:13:34.751791",
+    "api_key": "891E",
+    "model": "gemini-1.5-pro",
+    "type": "message",
+    "token_estimate": 10,
+    "has_attachments": false,
+    "attachment_types": []
+  },
+  {
+    "timestamp": "2025-04-03T08:13:43.484176",
+    "api_key": "891E",
+    "model": "gemini-1.5-pro",
+    "type": "message",
+    "token_estimate": 175,
+    "has_attachments": false,
+    "attachment_types": []
+  },
+  {
+    "timestamp": "2025-04-03T08:13:44.368044",
+    "api_key": "891E",
+    "model": "gemini-1.5-pro",
+    "type": "chat_name",
+    "token_estimate": 50,
+    "has_attachments": false,
+    "attachment_types": []
+  }
+]

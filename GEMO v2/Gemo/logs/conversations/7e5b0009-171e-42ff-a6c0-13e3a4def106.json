@@ -1,0 +1,31 @@
+{
+  "id": "7e5b0009-171e-42ff-a6c0-13e3a4def106",
+  "name": "New Chat",
+  "messages": [
+    {
+      "id": "8e0347a5-0ee4-4091-90d7-7b25314b02c3",
+      "role": "user",
+      "content": "HELLO AI",
+      "timestamp": "2025-04-05T07:26:53.029957"
+    },
+    {
+      "id": "ef707ff7-6f21-44c6-bea4-731cc4cf4934",
+      "role": "user",
+      "content": "HELLO AI",
+      "timestamp": "2025-04-05T07:26:56.715126"
+    },
+    {
+      "id": "b6e99c07-7cb0-4667-8431-7f58d8248c68",
+      "role": "assistant",
+      "content": "Hello! How can I assist you today?\n",
+      "timestamp": "2025-04-05T07:26:57.535424",
+      "responses": [
+        "Hello! How can I help you today?<br>",
+        "Hello! How can I assist you today?\n"
+      ],
+      "responseIndex": 1
+    }
+  ],
+  "created_at": "2025-04-05T07:26:53.029957",
+  "is_temporary": false
+}

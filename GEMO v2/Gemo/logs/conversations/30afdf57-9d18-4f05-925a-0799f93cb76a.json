@@ -1,0 +1,41 @@
+{
+  "id": "30afdf57-9d18-4f05-925a-0799f93cb76a",
+  "name": "Funny Name Generation",
+  "messages": [
+    {
+      "id": "a7e1e728-8c28-46eb-9032-741276d7cae5",
+      "role": "user",
+      "content": "SAY A FUNNY NAME",
+      "timestamp": "2025-04-05T07:31:56.870227"
+    },
+    {
+      "id": "013104ca-efdd-41c6-ab75-f707a98fcec3",
+      "role": "user",
+      "content": "EVEN FUNNIR",
+      "timestamp": "2025-04-05T07:32:09.136202"
+    },
+    {
+      "id": "921f0a91-1c46-49e3-88e7-bf640f47ed6a",
+      "role": "assistant",
+      "content": "Alright, alright, let's try this one:\n\n**Professor Flibbertigibbet von Snugglesnort**\n",
+      "timestamp": "2025-04-05T07:32:09.988981",
+      "responses": [
+        "Alright, alright, let's try this one:\n\n**Professor Flibbertigibbet von Snugglesnort**\n"
+      ],
+      "responseIndex": 0
+    },
+    {
+      "id": "a8241d92-a242-4d2c-87db-d81f846addfe",
+      "role": "assistant",
+      "content": "Okay, here's a funny name:<br><br><strong>Bartholomew \"Barth\" Quibblebottom the Third</strong><br>",
+      "timestamp": "2025-04-05T07:32:21.768829",
+      "responses": [
+        "Okay, here's a funny name:<br><br><strong>Bartholomew \"Barth\" Quibblebottom the Third</strong><br>",
+        "Okay, I'll try again! How about:\n\n**Professor Flufferbutt McToots**\n"
+      ],
+      "responseIndex": 0
+    }
+  ],
+  "created_at": "2025-04-05T07:31:56.869230",
+  "is_temporary": false
+}

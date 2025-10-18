@@ -1,0 +1,18 @@
+{
+  "id": "f43a06aa-a2ed-4739-938a-5ec1c93203b7",
+  "name": "New Chat",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2025-04-03T10:29:57.880208"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi there! How can I help you today?\n",
+      "timestamp": "2025-04-03T10:29:58.614439"
+    }
+  ],
+  "created_at": "2025-04-03T10:29:57.880208",
+  "is_temporary": false
+}
